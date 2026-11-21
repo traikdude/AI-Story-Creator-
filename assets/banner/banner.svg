@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 640" role="img" aria-labelledby="title desc">
+<title id="title">The next panel</title><desc id="desc">A star clue under a magnifier faces three comic panels showing a keep, a ringed planet and a jungle doorway.</desc>
+<defs><pattern id="dots" width="12" height="12" patternUnits="userSpaceOnUse"><circle cx="3" cy="3" r="2" fill="#172e35" opacity=".28"/></pattern></defs>
+<rect width="1280" height="640" fill="#192c32"/><rect x="18" y="18" width="1244" height="604" rx="12" fill="#ffe8bc"/>
+<g stroke="#192c32" stroke-width="9" stroke-linejoin="round"><path fill="#448f85" d="M45 51Q325 22 619 57V591Q306 560 45 590Z"/><path fill="url(#dots)" d="M45 51Q325 22 619 57V591Q306 560 45 590Z"/>
+<path fill="#344e55" d="m50 510 103-103 58 47 82-92 101 86 74-65 145 103v90q-320-30-563 0z"/>
+<path stroke-width="48" stroke-linecap="round" d="m355 333 137 144"/><path stroke="#cb5942" stroke-width="22" stroke-linecap="round" d="m362 345 127 131"/>
+<circle cx="285" cy="261" r="130" fill="#ecad44"/><circle cx="285" cy="261" r="107" fill="#98ccc0"/><path fill="#ffe2a0" d="m286 180 22 50 56 8-42 39 10 57-47-26-51 27 11-56-43-39 57-9z"/>
+<path fill="#d45b49" d="M650 55 1230 42v151l-580 55z"/><circle cx="960" cy="121" r="51" fill="#ffc95e" stroke="none"/><path fill="#293f44" d="m735 226 16-52 34-5v-52l21-3v13l14-1v-15l19-2v57l31-4v-57l19-2v13l15-2v-13l20-3v90l60-8 30 19z"/>
+<path fill="#24434e" d="m650 270 580-55v134l-580 77z"/><circle cx="947" cy="310" r="45" fill="#f4bc65"/><ellipse cx="947" cy="312" rx="101" ry="17" transform="rotate(-16 947 312)" fill="none" stroke="#f6dd9e"/><path stroke="#fff2bc" d="m751 325 27-6m323-53 19-5"/>
+<path fill="#64a48e" d="m650 448 580-76v209q-286-18-580 11z"/><path fill="#284f4c" d="m755 581 45-80 25 16 30-56 20 60 24-30 25 86zm290-8 55-72 17 20 19-64 21 75 22-19 38 66z"/><path fill="#cca069" d="M920 578v-70a65 65 0 0 1 130 0v66h-29v-65a36 36 0 0 0-72 0v67z"/></g></svg>
